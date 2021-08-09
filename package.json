@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonzyuen/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/jonzyuen/portfolio-generator#readme"
+  "homepage": "https://github.com/jonzyuen/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
 }
